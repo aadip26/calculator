@@ -11,6 +11,7 @@ Array.from(buttons).forEach((button)=>{
          document.querySelector('input').value = string;
       }
 
+      
      else if(e.target.innerHTML == '+/-'){
         string = "NAN";
          document.querySelector('input').value = string;
