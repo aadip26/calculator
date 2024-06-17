@@ -1,0 +1,14 @@
+.text-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-red{
+    background: #111111;
+    
+}
+
+.mx-auto{
+    margin: auto;
+}
